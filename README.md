@@ -25,5 +25,5 @@ le projet a duré 3 jours.
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/EdjBHPlzl1i4o/giphy.gif" height="50%" width="50%">
+  <img src="https://media.giphy.com/media/3o7TKnvDNYADdLYZIQ/giphy.gif" height="50%" width="50%">
 </p>
