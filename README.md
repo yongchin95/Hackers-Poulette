@@ -9,7 +9,8 @@
 https://github.com/becodeorg/BXL-Johnson-4.14/tree/master/06-PHP/hackers_poulette
 
 <h2>Mock up </h2>
- img 
+ (/poulette.png)
+ 
 <h2>Languages utilisés?</h2>
 
 <ul>
