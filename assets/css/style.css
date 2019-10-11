@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'FontName';
+    src: url('Bel.otf');
+    font-weight: normal;
+    font-style: normal
+}
+body{
+    background:#15c5bd;
+    font-family:'FontName',sans-serif;
+}
+h1,h2,h3,p{
+    color: #303030;
+}
