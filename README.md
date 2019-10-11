@@ -8,17 +8,8 @@
 
 https://github.com/becodeorg/BXL-Johnson-4.14/tree/master/06-PHP/hackers_poulette
 
-<ul>
-  <li>mock-up
-  </li>
-  <li>Menu
-A page php index.php
-</li>
-  <li>Pictures
-A page php form.php
-  </li>
-</ul>
-
+<h2>Mock up </h2>
+ img 
 <h2>Languages utilisés?</h2>
 
 <ul>
@@ -27,3 +18,10 @@ A page php form.php
   <li>Bootstrap</li>
   <li>PHP</li>
  </ul>
+
+le projet a duré 3 jours.
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/EdjBHPlzl1i4o/giphy.gif" height="50%" width="50%">
+</p>
